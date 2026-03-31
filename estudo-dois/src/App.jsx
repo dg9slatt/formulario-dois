@@ -86,7 +86,7 @@ function App() {
         </div>
 
         <div>
-          <Label>Observaçôes:</Label>
+          <label>Observaçôes:</label>
           <textarea
             name="observacoes"
             value={form.observacoes}
